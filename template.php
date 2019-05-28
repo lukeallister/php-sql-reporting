@@ -24,7 +24,7 @@ $title ='Title not set';
 <div class="w3-container w3-green">
 <h2><?=$title;?></h2>
  <p class="w3-bar">
- <a href="http://192.9.200.40/TheArchives/index.php" class="w3-button w3-white w3-round">Home</a>
+ <a href="#" class="w3-button w3-white w3-round">Home</a>
  </p>
  </div>
 
